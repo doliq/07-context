@@ -26,26 +26,25 @@ bun dev
 
 # Soal 1
 
-![Screenshot](assets-report\image-1.png)
+![Screenshot](assets-report/image-1.png)
 
 # Soal 2
 
-![Screenshot](assets-report\image-2.png)
-
-![Screenshot](assets-report\image-3.png)
+![Screenshot](assets-report/image-2.png)
+![Screenshot](assets-report/image-3.png)
 
 # Soal 3
 
-![Screenshot](assets-report\image-4.png)
+![Screenshot](assets-report/image-4.png)
 
 ### Praktikum 2
 
 # Soal 4
 
-![Screenshot](assets-report\image-6.png)
+![Screenshot](assets-report/image-6.png)
 
 ### Praktikum 3
 
 # Soal 5
 
-![Screenshot](assets-report\image-7.png)
+![Screenshot](assets-report/image-7.png)
